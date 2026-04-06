@@ -31,6 +31,58 @@
 ## MENU 
 <img src = 5.jpg >
 
+
+
+## Overview
+For more than a century, the world’s most prestigious recognition the Nobel Prize has symbolized excellence in science, literature, peace, and economics.
+
+This project analyzes the historical distribution of Nobel Prizes awarded to women between 1903 and 2025 to uncover structural patterns of inequality across geography, disciplines, and time.
+
+## Key Finding
+Across the entire history of the Nobel Prize (1901–2025), only 6% of awards have been granted to women.
+
+Over more than a century of global recognition, just 6 out of every 100 laureates have been female.
+This is not an isolated statistic it is a macroindicator of accumulated historical inequality. 
+
+## Data architecture
+<img src = sql.data.png>
+
+## Project Structure
+
+<img src = REPOSITORY.STRUCTURE.png>
+
+# VISUAL
+
+## Story
+<img src = hoja1.png>
+
+## Nationalitie
+<img src = hoja2.png>
+
+
+
+## Strategic Interpretation
+### The 6% figure is not merely descriptive data; it represents:
+
+-A historical concentration of scientific capital in men.
+
+-Structural barriers limiting access to advanced education.
+
+-Systemic exclusion within STEM disciplines.
+Institutional bias embedded in nomination and evaluation processes.
+
+### This percentage functions as a:
+
+-Structural KPI of historical inequality.
+
+-Baseline for longitudinal analysis.
+
+-Comparable indicator against current R&D parity metrics.
+
+<img src =thanks.png>
+
+__________________________________________
+
 ## [FIRST](https://github.com/rubiahumadaah/Structural-Gaps-in-Female-Scientific-Recognition-1903-2025-)
 <img src = 2.jpg >
 <img src = hoja1.png >
